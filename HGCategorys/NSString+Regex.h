@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+// 是啊,这里应该有一个注释
 // 基本匹配 : 数字, 汉字, 字符, 空格, 下划线, 点, @
 typedef NS_OPTIONS(NSUInteger, HGRegexType) {
     HGRegexTypeNone      = 0 << 0, // 未知
